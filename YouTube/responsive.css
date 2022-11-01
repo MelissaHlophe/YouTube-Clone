@@ -1,0 +1,12 @@
+@media screen and (max-device-width: 480px) and (orientation: portrait) {
+    .navbar{
+        overflow: unset;
+    }
+    .sidebar{
+        overflow: unset;
+        width: fit-content;
+    }
+    .categories{
+        margin:auto;
+    }
+}
